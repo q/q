@@ -1,41 +1,41 @@
-# Corey Bertram
+### Corey Bertram
 
-CTO. Product. Teams. Companies.
+<sub>CTO. Product. Teams. Companies.</sub>
 
-Most of the systems, teams, and products I've built live inside companies. This profile is a small slice of the work: a few public artifacts, some older open source, and whatever I'm exploring now.
+<sub>Most of the systems, teams, and products I've built live inside companies. This profile is a small slice of the work: a few public artifacts, some older open source, and whatever I'm exploring now.</sub>
 
-## Built For Scale
+#### Built For Scale
 
-- CTO at Rokt
-- VP at Datadog
-- Built engineering at The Groundwork / Hillary 2016
-- Chaos engineering at Netflix
+- <sub>CTO at Rokt</sub>
+- <sub>VP at Datadog</sub>
+- <sub>Built engineering at The Groundwork / Hillary 2016</sub>
+- <sub>Chaos engineering at Netflix</sub>
 
-I tend to work where product, architecture, and organizational design all matter at once.
+<sub>I tend to work where product, architecture, and organizational design all matter at once.</sub>
 
-## Public Artifacts
+#### Public Artifacts
 
-- [`vesta`](https://github.com/q/vesta) - format, preview, and publish structured data to Vestaboard displays
-- [`brutal`](https://github.com/Netflix/brutal) - async, multi-network chat bot framework I wrote at Netflix
-- [`q.github.io`](https://github.com/q/q.github.io) - source for my personal site
+- <sub>[`vesta`](https://github.com/q/vesta) - format, preview, and publish structured data to Vestaboard displays</sub>
+- <sub>[`brutal`](https://github.com/Netflix/brutal) - async, multi-network chat bot framework I wrote at Netflix</sub>
+- <sub>[`q.github.io`](https://github.com/q/q.github.io) - source for my personal site</sub>
 
-## Interviews And Talks
+#### Interviews And Talks
 
-- [Modern CTO: Making Ecommerce Smarter](https://www.youtube.com/watch?v=L67j4t7POv4)
-- [AI in Action: Corey Bertram, CTO at Rokt](https://alldus.com/podcast/ai-in-action-e246-corey-bertram-chief-technology-officer-at-rokt/)
-- [Chaos Engineering at Datadog](https://www.brighttalk.com/webcast/18189/482398)
+- <sub>[Modern CTO: Making Ecommerce Smarter](https://www.youtube.com/watch?v=L67j4t7POv4)</sub>
+- <sub>[AI in Action: Corey Bertram, CTO at Rokt](https://alldus.com/podcast/ai-in-action-e246-corey-bertram-chief-technology-officer-at-rokt/)</sub>
+- <sub>[Chaos Engineering at Datadog](https://www.brighttalk.com/webcast/18189/482398)</sub>
 
-## Now
+#### Now
 
-- Exploring early-stage companies near inflection points
-- Advising and investing in technical founders
-- Looking for product ideas worth building in public
+- <sub>Exploring early-stage companies near inflection points</sub>
+- <sub>Advising and investing in technical founders</sub>
+- <sub>Looking for product ideas worth building in public</sub>
 
-## Elsewhere
+#### Elsewhere
 
-- Site: [qr7.com](https://qr7.com)
-- LinkedIn: [linkedin.com/in/cbertram](https://www.linkedin.com/in/cbertram)
-- GitHub: [@q](https://github.com/q)
+- <sub>Site: [qr7.com](https://qr7.com)</sub>
+- <sub>LinkedIn: [linkedin.com/in/cbertram](https://www.linkedin.com/in/cbertram)</sub>
+- <sub>GitHub: [@q](https://github.com/q)</sub>
 
 <!--
 **q/q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
