@@ -7,10 +7,10 @@ Most of the systems, teams, and products I've built live inside companies. This 
 
 ### Built For Scale
 
-- CTO at Rokt
-- VP at Datadog
+- CTO at [Rokt](https://www.rokt.com/)
+- VP at [Datadog](https://www.datadoghq.com/)
 - Built engineering at The Groundwork / Hillary 2016
-- Chaos engineering at Netflix
+- Chaos engineering at [Netflix](https://www.netflix.com/)
 
 I tend to work where product, architecture, and organizational design all matter at once.
 
