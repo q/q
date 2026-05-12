@@ -9,6 +9,7 @@ old open source, side quests, experiments, and a few pointers elsewhere.
 
 - [`vesta`](https://github.com/q/vesta) - structured data -> Vestaboard messages ([vestaboard.tools](https://vestaboard.tools/))
 - [`brutal`](https://github.com/Netflix/brutal) - async multi-network chat bot framework from my Netflix era
+- [`magtag-home`](https://github.com/q/magtag-home) - low-power Adafruit MagTag home display for wifi qr codes, weather, home assistant integrations, and battery status
 - [`q.github.io`](https://github.com/q/q.github.io) - personal site source
 
 ### Notes
