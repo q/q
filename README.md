@@ -7,7 +7,7 @@ old open source, side quests, experiments, and a few pointers elsewhere.
 
 ### Things
 
-- [`vesta`](https://github.com/q/vesta) - structured data -> Vestaboard messages
+- [`vesta`](https://github.com/q/vesta) - structured data -> Vestaboard messages ([vestaboard.tools](https://vestaboard.tools/))
 - [`brutal`](https://github.com/Netflix/brutal) - async multi-network chat bot framework from my Netflix era
 - [`q.github.io`](https://github.com/q/q.github.io) - personal site source
 
