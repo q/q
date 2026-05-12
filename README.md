@@ -1,54 +1,35 @@
 ## Corey Bertram
 
-CTO.<br/>
-Product. Teams. Companies.
+I build systems, teams, and occasionally small weird tools.
 
-Most of the systems, teams, and products I've built live inside companies. This profile is a small slice of the work: a few public artifacts, some older open source, and whatever I'm exploring now.
+Most of the interesting work is not in public repos. This is the visible edge:
+old open source, side quests, experiments, and a few pointers elsewhere.
 
-### Built For Scale
+### Things
 
-- CTO at [Rokt](https://www.rokt.com/)
-- VP at [Datadog](https://www.datadoghq.com/)
-- Built engineering at The Groundwork / Hillary 2016
-- Chaos engineering at [Netflix](https://www.netflix.com/)
+- [`vesta`](https://github.com/q/vesta) - structured data -> Vestaboard messages
+- [`brutal`](https://github.com/Netflix/brutal) - async multi-network chat bot framework from my Netflix era
+- [`q.github.io`](https://github.com/q/q.github.io) - personal site source
 
-I tend to work where product, architecture, and organizational design all matter at once.
+### Notes
 
-### Public Artifacts
+- I like boring infrastructure that makes ambitious products possible.
+- I care about product shape, operating systems for teams, and the parts of engineering that do not fit neatly in code.
+- I have spent a lot of time around scale, failure modes, ecommerce, observability, political tech, and chaos engineering.
 
-- [`vesta`](https://github.com/q/vesta) - format, preview, and publish structured data to Vestaboard displays
-- [`brutal`](https://github.com/Netflix/brutal) - async, multi-network chat bot framework I wrote at Netflix
-- [`q.github.io`](https://github.com/q/q.github.io) - source for my personal site
+### Old Links
 
-### Interviews And Talks
-
-- [Modern CTO: Making Ecommerce Smarter](https://www.youtube.com/watch?v=L67j4t7POv4)
-- [AI in Action: Corey Bertram, CTO at Rokt](https://alldus.com/podcast/ai-in-action-e246-corey-bertram-chief-technology-officer-at-rokt/)
 - [Chaos Engineering at Datadog](https://www.brighttalk.com/webcast/18189/482398)
+- [Modern CTO: Making Ecommerce Smarter](https://www.youtube.com/watch?v=L67j4t7POv4)
+- [AI in Action](https://alldus.com/podcast/ai-in-action-e246-corey-bertram-chief-technology-officer-at-rokt/)
 
 ### Now
 
-- Exploring early-stage companies near inflection points
-- Advising and investing in technical founders
-- Looking for product ideas worth building in public
+- tinkering in public more than I used to
+- trying to make more of the work visible
+- looking for product ideas with teeth
 
 ### Elsewhere
 
-- Site: [qr7.com](https://qr7.com)
-- LinkedIn: [linkedin.com/in/cbertram](https://www.linkedin.com/in/cbertram)
-- GitHub: [@q](https://github.com/q)
-
-<!--
-**q/q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [qr7.com](https://qr7.com) has the more complete version.
+- [LinkedIn](https://www.linkedin.com/in/cbertram)
