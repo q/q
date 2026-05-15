@@ -3,7 +3,7 @@
 I build systems, teams, and occasionally small weird tools.
 
 Most of the interesting work is not in public repos. This is the visible edge:
-old open source, side quests, experiments, and a few pointers elsewhere.
+experiments, side quests, old open source, and a few pointers elsewhere.
 
 ### Things
 
@@ -18,17 +18,17 @@ old open source, side quests, experiments, and a few pointers elsewhere.
 - I care about product shape, operating systems for teams, and the parts of engineering that do not fit neatly in code.
 - I have spent a lot of time around scale, failure modes, ecommerce, observability, political tech, and chaos engineering.
 
-### Old Links
+### Talks
 
-- [Chaos Engineering at Datadog](https://www.brighttalk.com/webcast/18189/482398)
 - [Modern CTO: Making Ecommerce Smarter](https://www.youtube.com/watch?v=L67j4t7POv4)
 - [AI in Action](https://alldus.com/podcast/ai-in-action-e246-corey-bertram-chief-technology-officer-at-rokt/)
+- [Chaos Engineering at Datadog](https://www.brighttalk.com/webcast/18189/482398)
 
 ### Now
 
-- tinkering in public more than I used to
-- trying to make more of the work visible
-- looking for product ideas with teeth
+- Tinkering in public more than I used to.
+- Trying to make more of the work visible.
+- Looking for product ideas with teeth.
 
 ### Elsewhere
 
