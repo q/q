@@ -9,13 +9,13 @@ experiments, side quests, old open source, and a few pointers elsewhere.
 
 - [`vesta`](https://github.com/q/vesta) - structured data -> Vestaboard messages ([vestaboard.tools](https://vestaboard.tools/))
 - [`brutal`](https://github.com/Netflix/brutal) - async multi-network chat bot framework from my Netflix era
+- [`django-simple-history`](https://github.com/django-commons/django-simple-history) - original creator of the Django model history library, now maintained by Django Commons
 - [`magtag-home`](https://github.com/q/magtag-home) - low-power Adafruit MagTag home display for wifi qr codes, weather, home assistant, and more
-- [`django-simple-history`](https://github.com/django-commons/django-simple-history) - original creator of the Django model history/versioning library, now maintained by Django Commons
 
 ### Notes
 
 - I like boring infrastructure that makes ambitious products possible.
-- I care about product shape, operating systems for teams, and the parts of engineering that do not fit neatly in code.
+- I care about product shape, how engineering teams work, and the parts of software that do not fit neatly in code.
 - I have spent a lot of time around scale, failure modes, ecommerce, observability, political tech, and chaos engineering.
 
 ### Talks
@@ -28,7 +28,7 @@ experiments, side quests, old open source, and a few pointers elsewhere.
 
 - Tinkering in public more than I used to.
 - Trying to make more of the work visible.
-- Looking for product ideas with teeth.
+- Looking for product ideas with sharp edges.
 
 ### Elsewhere
 
