@@ -11,6 +11,7 @@ experiments, side quests, old open source, and a few pointers elsewhere.
 - [`brutal`](https://github.com/Netflix/brutal) - async multi-network chat bot framework from my Netflix era
 - [`django-simple-history`](https://github.com/django-commons/django-simple-history) - original creator of the Django model history library, now maintained by Django Commons
 - [`magtag-home`](https://github.com/q/magtag-home) - low-power Adafruit MagTag home display for wifi qr codes, weather, home assistant, and more
+- [`circuitpython-datadog`](https://github.com/q/circuitpython-datadog/) - CircuitPython client for sending metrics to Datadog
 
 ### Notes
 
