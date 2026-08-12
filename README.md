@@ -3,7 +3,7 @@
 I build systems, teams, and occasionally small weird tools.
 
 Most of the interesting work is not in public repos. This is the visible edge:
-experiments, side quests, old open source, and a few pointers elsewhere.
+experiments, side quests, old open source, and a few forgotten links.
 
 ### Things
 
@@ -29,8 +29,8 @@ Commons
 ### Now
 
 - Tinkering in public more than I used to.
-- Trying to make more of the work visible.
-- Looking for product ideas with sharp edges.
+- Making more of the work visible.
+- Looking for product ideas.
 
 ### Elsewhere
 
